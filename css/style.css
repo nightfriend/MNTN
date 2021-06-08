@@ -14,7 +14,7 @@ body a {
 }
 
 .header {
-  background: url(img/BG.png) 0 0/cover no-repeat;
+  background: url("/img/bg.png") 0 0/cover no-repeat;
   min-height: 100vh;
   padding: 0 0 700px 0;
 }
