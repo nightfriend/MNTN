@@ -105,7 +105,7 @@ body {
             line-height: 22px;
             padding: 5px;
             &::after {
-                content: url(/img/skroll.png);
+                content: url('../img/skroll.png');
                 position: absolute;
                 right: -20px;
                 animation: circle 2s linear infinite alternate;
@@ -294,7 +294,7 @@ body {
             color: #FBD784;
 
             &:after {
-                content: url(/img/row.png);
+                content: url('../img/row.png');
 
                 position: absolute;
                 top: 2px;

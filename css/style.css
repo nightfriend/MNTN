@@ -132,7 +132,7 @@ body a {
   padding: 5px;
 }
 .header__title a::after {
-  content: url(/img/skroll.png);
+  content: url("../img/skroll.png");
   position: absolute;
   right: -20px;
   -webkit-animation: circle 2s linear infinite alternate;
@@ -343,7 +343,7 @@ body a {
   color: #FBD784;
 }
 .content__info a:after {
-  content: url(/img/row.png);
+  content: url("../img/row.png");
   position: absolute;
   top: 2px;
   right: -30px;
